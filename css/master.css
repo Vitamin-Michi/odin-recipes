@@ -4,3 +4,12 @@
   -webkit-box-sizing: border-box;
   box-sizing: border-box;
 }
+
+nav {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  font-family: "Inter", sans-serif;
+  font-weight: 500;
+}
