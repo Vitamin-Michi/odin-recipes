@@ -12,4 +12,6 @@ nav {
   justify-content: center;
   font-family: "Inter", sans-serif;
   font-weight: 500;
+  height: 60px;
+  border-bottom: 1px solid #ececec;
 }
